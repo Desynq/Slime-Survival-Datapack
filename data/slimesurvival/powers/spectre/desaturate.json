@@ -1,0 +1,8 @@
+{
+	"type": "origins:shader",
+	"shader": "minecraft:shaders/post/desaturate.json",
+	"condition": {
+		"type": "origins:power_active",
+		"power": "*:spectre/phantomize"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"loading_priority": 1,
+	"powers": [
+		"origins-classes:no_sprint_exhaustion"
+	],
+	"icon": "minecraft:compass",
+	"order": 9,
+	"impact": 0
+}
